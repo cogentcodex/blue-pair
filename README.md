@@ -23,10 +23,6 @@ Simple Bluetooth Android app for handling device discovery and pairing.
 4. If the pairing is successful, you will receive a confirmation message at the bottom of the screen and the device icon will change, showing 2 dots beside the Bluetooth symbol. 
 <img alt="Succesfully paired" src="/assets/screenshots/Screenshot_20170414-001605.png" height="600"/>
 
-### Get it on Google Play
-You can download this app from Google Play Store following this link:
-<a href='https://play.google.com/store/apps/details?id=co.aurasphere.bluepair&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
-
 ### Contributions
 If you want to contribute on this project, just fork this repo and submit a pull request with your changes. Improvements are always appreciated!
 
